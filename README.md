@@ -33,11 +33,11 @@ conda env create -n foresk -f foresk_packages.yaml
 
 This project includes 3 main folders as described below.
 
-- Buller: Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background scripts to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
+- [Buller](https://github.com/Martin20494/Combination_Uncertainty/tree/main/Buller): Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background scripts to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
 
-- Waikanae: Includes three sub-folders ```Script_development``` for background scripts and ```Script_execution``` for executing the background scripts to generate simulations.
+- [Waikanae](https://github.com/Martin20494/Combination_Uncertainty/tree/main/Waikanae): Includes three sub-folders ```Script_development``` for background scripts and ```Script_execution``` for executing the background scripts to generate simulations.
 
-- Esk: Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background script to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
+- [Esk](https://github.com/Martin20494/Combination_Uncertainty/tree/main/Esk): Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background script to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
 
 ## Acknowledgement
 
