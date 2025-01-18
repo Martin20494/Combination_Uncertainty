@@ -17,7 +17,7 @@ This work is used to produce data for developing several machine learning models
 
 <div align="center">
 	<img width = "60%" src="https://github.com/Martin20494/Combination_Uncertainty/blob/main/MC_ML_workflow.jpg">
-	<img width = "60%" src="https://github.com/Martin20494/Combination_Uncertainty/blob/main/MC_ML_workflow_application_on_sites.jpg">
+	<img width = "60%" src="https://github.com/Martin20494/Combination_Uncertainty/blob/main/MC_ML_worflow_application_on_sites.jpg">
 </div>
 
 ## Reproducibility
