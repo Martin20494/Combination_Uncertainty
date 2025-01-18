@@ -33,11 +33,11 @@ conda env create -n foresk -f foresk_packages.yaml
 
 This project includes 3 main folders as described below.
 
-- [calibration](https://github.com/Martin20494/Grid_Orientation/tree/main/calibration): Including `data`, `scripts`, and `results` sub-folders used to calibrate the LISFLOOD-FP flood model. 
+- Buller: Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background scripts to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
 
-- [simulation](https://github.com/Martin20494/Grid_Orientation/tree/main/simulation): Including `data` and `scripts` sub-folders used to generate simulations.
+- Waikanae: Includes three sub-folders ```Script_development``` for background scripts and ```Script_execution``` for executing the background scripts to generate simulations.
 
-- [other_files](https://github.com/Martin20494/Grid_Orientation/tree/main/other_files): Including `data` and `scripts` sub-folders used to store all results from this project, figures for manuscript, and data sources.
+- Esk: Includes three sub-folders ```Script_development``` for background scripts, ```Script_execution``` for executing the background script to generate simulations, and ```Script_extra``` for editing the results if there are any faults.
 
 ## Acknowledgement
 
